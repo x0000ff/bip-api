@@ -45,3 +45,7 @@ Navigate to [`http://localhost:5000/?card_number=21922110`](http://localhost:500
   "error": "Esta tarjeta no se puede cargar"
 }
 ```
+
+## Credits
+
+❤️ [bip](https://www.npmjs.com/package/bip) by [lgatica](https://github.com/lgaticaq)
