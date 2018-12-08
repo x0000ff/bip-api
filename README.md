@@ -1,8 +1,8 @@
 # Bip! API 
 
-API for check balance on your BIP card
-
 <center>![bip logo](./img/logo.png)</center>
+
+API for check balance on your BIP card
 
 ## Running Locally
 
