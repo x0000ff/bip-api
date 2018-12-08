@@ -1,6 +1,8 @@
-# Bip! API
+# Bip! API 
 
-Simple API
+API for check balance on ypur BIP card
+
+<center>![bip logo](./img/logo.png)</center>
 
 ## Running Locally
 
@@ -14,3 +16,7 @@ $ npm start
 ```
 
 Your app should now be running on [localhost:5000](http://localhost:5000/?card_number=21922110).
+
+## Usage
+
+Navigate to [`http://localhost:5000/?card_number=21922110`](http://localhost:5000/?card_number=21922110)
