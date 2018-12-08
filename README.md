@@ -1,6 +1,6 @@
 # Bip! API 
 
-API for check balance on ypur BIP card
+API for check balance on your BIP card
 
 <center>![bip logo](./img/logo.png)</center>
 
