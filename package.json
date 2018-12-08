@@ -1,7 +1,7 @@
 {
   "name": "bip-api",
   "version": "0.1.0",
-  "description": "API for check balance on ypur BIP card",
+  "description": "API for check balance on Bip! card",
   "engines": {
     "node": "10.x"
   },
