@@ -1,0 +1,7 @@
+{
+  "name": "Bip! API",
+  "description": "API for check Bip! cards balance",
+  "repository": "https://github.com/x0000ff/bip-api",
+  "keywords": ["node", "express", "bip"],
+  "image": "heroku/nodejs"
+}
