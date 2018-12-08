@@ -9,7 +9,7 @@ let rootHandler = async function(req, res) {
   const card_number = req.query.card_number;
 
   if (!card_number) {
-    const response = { "error": "Missed query param `card_number`.\nUsage `/card_number=123`" };
+    const response = { "error": "Missed query param `card_number`. Usage `/card_number=123`" };
     res.send(response);
     return;
   }
